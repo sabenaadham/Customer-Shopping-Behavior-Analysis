@@ -94,8 +94,7 @@ To perform end-to-end data analysis using Python, SQL, and Power BI to understan
 ---
 
 ##  Power BI Dashboard
-(<img width="1152" height="720" alt="customer behaviour analysis" src="https://github.com/user-attachments/assets/20cfbb7e-8741-43fb-a27f-741654f71e1d" />
-)
+<a href="https://github.com/sabenaadham/Customer-Shopping-Behavior-Analysis/blob/main/Customer%20Behavior%20Dashboard.pbix">
 
 ---
 
