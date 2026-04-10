@@ -66,13 +66,13 @@ To perform end-to-end data analysis using Python, SQL, and Power BI to understan
 
 ---
 
-##  Dashboard
-<img width="1152" height="720" alt="customer behaviour analysis" src="https://github.com/user-attachments/assets/f1445e8b-7756-4e74-bf5d-623df76201a2" />
+## 🔗 Power BI Dashboard
+![Dashboard]([https://github.com/user-attachments/assets/20cfbb7e-8741-43fb-a27f-741654f71e1d](https://github.com/sabenaadham/Customer-Shopping-Behavior-Analysis/blob/main/customer%20behaviour%20analysis.png))
 
 
 ---
 
-## 🔍 Key Insights
+##  Key Insights
 
 - Adult and middle-aged customers contribute highest revenue  
 - Discount usage strongly influences purchase behavior  
@@ -82,7 +82,7 @@ To perform end-to-end data analysis using Python, SQL, and Power BI to understan
 
 ---
 
-## 💡 Business Recommendations
+##  Business Recommendations
 
 - Improve customer loyalty programs  
 - Promote subscription benefits  
@@ -92,14 +92,17 @@ To perform end-to-end data analysis using Python, SQL, and Power BI to understan
 
 ---
 
-## 🔗 Power BI Dashboard
+##  Power BI Dashboard
 (<img width="1152" height="720" alt="customer behaviour analysis" src="https://github.com/user-attachments/assets/20cfbb7e-8741-43fb-a27f-741654f71e1d" />
 )
 
 ---
 
-## 📁 Project Files
+##  Project Files
 - Python Notebook (.ipynb)
 - SQL Queries
 - Power BI Dashboard (.pbix)
 - Dataset
+
+##  Conclusion
+The analysis highlights key customer segments, product performance, and purchasing trends, helping businesses make data-driven decisions.
