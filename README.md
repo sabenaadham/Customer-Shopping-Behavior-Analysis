@@ -1,16 +1,16 @@
 # 🛒 Customer Shopping Behavior Analysis | Python • SQL • Power BI
 
-## 📌 Project Overview
+##  Project Overview
 This project analyzes customer shopping behavior using transactional data from 3,900 purchases across multiple product categories. The goal is to uncover insights into customer spending patterns, product preferences, and subscription behavior.
 
 ---
 
-## 🎯 Objective
+##  Objective
 To perform end-to-end data analysis using Python, SQL, and Power BI to understand customer behavior and generate actionable business insights.
 
 ---
 
-## 🛠 Tools & Technologies
+##  Tools & Technologies
 - Python (Pandas, NumPy, Matplotlib, Seaborn)
 - SQL (MySQL)
 - Power BI
@@ -18,7 +18,7 @@ To perform end-to-end data analysis using Python, SQL, and Power BI to understan
 
 ---
 
-## 📊 Dataset Summary
+##  Dataset Summary
 - Rows: 3,900
 - Columns: 18
 - Features:
@@ -93,7 +93,8 @@ To perform end-to-end data analysis using Python, SQL, and Power BI to understan
 ---
 
 ## 🔗 Power BI Dashboard
-(Add your Power BI link here)
+(<img width="1152" height="720" alt="customer behaviour analysis" src="https://github.com/user-attachments/assets/20cfbb7e-8741-43fb-a27f-741654f71e1d" />
+)
 
 ---
 
