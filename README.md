@@ -1,4 +1,4 @@
-<img width="1152" height="720" alt="customer behaviour analysis" src="https://github.com/user-attachments/assets/06e35368-c231-4cea-918d-ee4df006344a" /># 🛒 Customer Shopping Behavior Analysis | Python • SQL • Power BI
+# 🛒 Customer Shopping Behavior Analysis | Python • SQL • Power BI
 
 ##  Project Overview
 This project analyzes customer shopping behavior using transactional data from 3,900 purchases across multiple product categories. The goal is to uncover insights into customer spending patterns, product preferences, and subscription behavior.
