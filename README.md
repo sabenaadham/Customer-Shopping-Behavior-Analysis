@@ -66,13 +66,6 @@ To perform end-to-end data analysis using Python, SQL, and Power BI to understan
 
 ---
 
-## 🔗 Power BI Dashboard
-![Uploading customer behaviour analysis.png…](https://github.com/sabenaadham/Customer-Shopping-Behavior-Analysis/blob/main/customer%20behaviour%20analysis.png)
-
-
-
----
-
 ##  Key Insights
 
 - Adult and middle-aged customers contribute highest revenue  
