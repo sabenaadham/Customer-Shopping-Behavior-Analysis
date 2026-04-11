@@ -95,7 +95,7 @@ To perform end-to-end data analysis using Python, SQL, and Power BI to understan
 
 ##  Power BI Dashboard
 
-**Power BI Report:** [Click Here to View](https://github.com/sabenaadham/Customer-Shopping-Behavior-Analysis/blob/main/Customer%20Behavior%20Dashboard.pbix) 
+**Power BI Report:** [Click Here to View](C:\Data_Analysis) 
 
 ---
 
