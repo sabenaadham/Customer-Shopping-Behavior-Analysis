@@ -95,7 +95,8 @@ To perform end-to-end data analysis using Python, SQL, and Power BI to understan
 
 ##  Power BI Dashboard
 
-**Power BI Report:** [Click Here to View](C:\Data_Analysis) 
+**Power BI Report:** [Click Here to View](<img width="1152" height="720" alt="customer behaviour analysis" src="https://github.com/user-attachments/assets/389c6c22-d3e3-4e47-9682-e2ecfdc98c6c" />
+) 
 
 ---
 
