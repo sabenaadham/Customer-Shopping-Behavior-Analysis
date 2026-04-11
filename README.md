@@ -82,14 +82,13 @@ To perform end-to-end data analysis using Python, SQL, and Power BI to understan
 - Promote subscription benefits  
 - Optimize discount strategies  
 - Focus on high-performing products  
-- Target high-value customer segments  
+- Target high-value customer segments
 
 ---
 
-##  Power BI Dashboard
-
-**Power BI Report:** [Click Here to View](<img width="1152" height="720" alt="customer behaviour analysis" src="https://github.com/user-attachments/assets/389c6c22-d3e3-4e47-9682-e2ecfdc98c6c" />
-) 
+## Power BI Dashboard
+(<img width="1152" height="720" alt="customer behaviour analysis" src="https://github.com/user-attachments/assets/20cfbb7e-8741-43fb-a27f-741654f71e1d" /> )
+ 
 
 ---
 
